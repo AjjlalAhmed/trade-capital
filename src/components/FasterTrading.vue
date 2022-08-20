@@ -41,7 +41,7 @@ import fasterTradingImg from "../assets/imaegs/fs-t.svg";
 .faster-trading {
   background: #fff;
   padding: 10px;
-
+  clip-path: polygon(0 19%, 100% 0%, 100% 100%, 0% 100%);
   .content {
     display: flex;
     justify-content: space-between;

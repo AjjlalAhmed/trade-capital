@@ -65,6 +65,7 @@ const toggleNavbar = () => (showMenu.value = !showMenu.value);
 // Styles
 .header {
   padding: 20px;
+    background: #0a0820;
   .nav {
     display: flex;
     justify-content: space-between;

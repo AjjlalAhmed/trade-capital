@@ -40,6 +40,7 @@ import landindImg from "../assets/imaegs/landing.svg";
 .landing {
   min-height: 90vh;
   padding: 20px;
+  background: #0a0820;
   .content {
     display: flex;
     justify-content: space-between;

@@ -16,7 +16,9 @@ import fasterTradingImg from "../assets/imaegs/se-t.svg";
       <!-- Left  -->
       <section class="left">
         <!-- Title  -->
-        <h1 class="title">the easiest and most secure platform to buy and trade cryptocurrency</h1>
+        <h1 class="title">
+          the easiest and most secure platform to buy and trade cryptocurrency
+        </h1>
         <!-- Text  -->
         <p class="text">
           The financial products offered by the company carry a high level of
@@ -25,6 +27,7 @@ import fasterTradingImg from "../assets/imaegs/se-t.svg";
         </p>
         <!-- Button  -->
         <div class="btn">
+          <!-- Action button  -->
           <button class="action-btn">trade crypto</button>
         </div>
       </section>
@@ -41,7 +44,6 @@ import fasterTradingImg from "../assets/imaegs/se-t.svg";
 .faster-trading {
   background: #fff;
   padding: 10px;
-
   .content {
     display: flex;
     justify-content: space-between;
@@ -53,8 +55,8 @@ import fasterTradingImg from "../assets/imaegs/se-t.svg";
     padding: 150px 0px;
     min-height: 100vh;
     .left {
-        max-width: 600px;
-        margin-top: 50px;
+      max-width: 600px;
+      margin-top: 50px;
       .title {
         font-size: 3rem;
         text-transform: capitalize;
